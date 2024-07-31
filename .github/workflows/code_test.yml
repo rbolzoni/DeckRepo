@@ -12,10 +12,10 @@ jobs:
             python-version: '3.11'
         - name: Install dependencies
           run: |
-            python -m pip install --upgrade pip setuptools
+            pip install --upgrade pip setuptools
         - name: Install pytest
           run: |
             pip install pytest
-	- name: Run pytest
+        - name: Run pytest
           run: |
             pytest -v deckmodule/

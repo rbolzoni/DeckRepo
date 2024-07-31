@@ -1,1 +1,1 @@
-Repository of the Deckmodule library for the course of Scientific Computing 2023/24. The folder is uploaded separately for its own version control a workflow
+Repository of the Deckmodule library for the course of Scientific Computing 2023/24. This version is uploaded separately for its own version control a workflow

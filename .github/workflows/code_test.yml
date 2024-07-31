@@ -19,6 +19,3 @@ jobs:
         - name: Run pytest
           run: |
             pytest -v deckmodule/
-	- name: Feedback
-          run: |
-            echo "All fine, commit accepted"
